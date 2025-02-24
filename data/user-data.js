@@ -1,5 +1,5 @@
 export const userData = {
-  githubUser: 'TRAN THAI HOANGHOANG',
+  githubUser: 'thhoang963',
   devUsername: "said7388",
   github: 'https://github.com/said7388',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
