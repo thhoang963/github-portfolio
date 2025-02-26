@@ -77,16 +77,16 @@ Eg:
 
 ```javascript
 export const userData = {
-  githubUser: "said7388",
-  devUsername: "said7388",
-  github: "https://github.com/said7388",
+  githubUser: "thhoang963",
+  devUsername: "thhoang963",
+  github: "https://github.com/thhoang963",
   facebook: "https://www.facebook.com/abusaid.riyaz/",
   linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
   twitter: "https://twitter.com/said7388",
   stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
   leetcode: "https://leetcode.com/said3812/",
   resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+    "https://drive.google.com/file/d/1Fy3PiP0xsWc9EKl_nCL1uIfd3CKjm1QC/view?usp=sharing",
   skills: [
     "React",
     "NextJS",
